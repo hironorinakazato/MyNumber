@@ -7,6 +7,10 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Hfn.MyNumber", "Hfn.MyNumbe
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Hfn.Interoperation", "Hfn.Interoperation\Hfn.Interoperation.fsproj", "{7392DBA4-E3D2-4A14-A275-EBFECE3F5581}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hfn.MyNumber.CSharpTest", "Hfn.MyNumber.CSharpTest\Hfn.MyNumber.CSharpTest.csproj", "{4B26149C-9730-47F4-AD36-C76DEE92C987}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Hfn.MyNumber.FSharpTest", "Hfn.MyNumber.FSharpTest\Hfn.MyNumber.FSharpTest.fsproj", "{6D5CBEE2-CD2F-4950-BFC7-00ED065F3821}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7392DBA4-E3D2-4A14-A275-EBFECE3F5581}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7392DBA4-E3D2-4A14-A275-EBFECE3F5581}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7392DBA4-E3D2-4A14-A275-EBFECE3F5581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B26149C-9730-47F4-AD36-C76DEE92C987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B26149C-9730-47F4-AD36-C76DEE92C987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B26149C-9730-47F4-AD36-C76DEE92C987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B26149C-9730-47F4-AD36-C76DEE92C987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5CBEE2-CD2F-4950-BFC7-00ED065F3821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5CBEE2-CD2F-4950-BFC7-00ED065F3821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5CBEE2-CD2F-4950-BFC7-00ED065F3821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5CBEE2-CD2F-4950-BFC7-00ED065F3821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
