@@ -1,6 +1,5 @@
 # MyNumber
 
 ## Requirement
-* Visual Studio for Mac
-* .NET 7
+* .NET 8
 
