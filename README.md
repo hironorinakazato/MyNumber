@@ -1,5 +1,4 @@
 # MyNumber
 
 ## Requirement
-* .NET 8
-
+* .NET 9.0
