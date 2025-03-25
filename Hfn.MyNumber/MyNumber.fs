@@ -3,7 +3,6 @@
 /// <summary>
 /// Provides functions for working with My Number (Japanese Individual Number).
 /// </summary>
-/// <remarks>
 [<CompilationRepresentation(CompilationRepresentationFlags.ModuleSuffix)>]
 module MyNumber =
     let private checkDigitIncludedLength = 12
