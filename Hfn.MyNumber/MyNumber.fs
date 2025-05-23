@@ -74,7 +74,7 @@ module MyNumber =
             match calculateCheckDigit (valid.Substring(0, checkDigitExcludedLength)) with
             | None -> false
             | Some checkDigit ->
-                valid.[checkDigitExcludedLength].ToString()
+                valid[checkDigitExcludedLength].ToString()
                 |> int
                 |> (=) checkDigit
 
