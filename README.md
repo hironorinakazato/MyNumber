@@ -11,7 +11,7 @@ A .NET library for validating Japanese My Number (Individual Number) check digit
 
 ## Installation / Getting Started
 
-**Requirements:** .NET 9.0
+**Requirements:** .NET 10.0
 
 ### Build
 ```bash
