@@ -38,6 +38,7 @@ module MyNumber =
         |> Result.bind (validateLength checkDigitIncludedLength)
         |> Result.bind validateCharacters
 
+    // Assumes input is a validated 11-digit string
     let private extractDigitsReversed (input: string) =
         input
         |> int64
